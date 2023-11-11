@@ -7,5 +7,6 @@ I had problems, commit and push the repo on windows because of an Error "file na
 
 However the following line of code, executed in PowerShell did the trick:
 
-  git config --global core.longpaths true
-
+'''
+git config --global core.longpaths true
+'''
