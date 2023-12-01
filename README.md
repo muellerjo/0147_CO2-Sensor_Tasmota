@@ -2,6 +2,8 @@
 A DIY CO2 Sensor, implemented in HomeAssistant using modified Tasmota
 
 
+
+
 # File names to long on windows
 I had problems, commit and push the repo on windows because of an Error "file name to long"
 
